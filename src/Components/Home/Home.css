@@ -6,3 +6,14 @@
 .mid-section {
   margin-right: 20px;
 }
+.mid-section-img img {
+  height: 500px;
+  width: 500px;
+}
+.accordion {
+  width: 800px;
+  margin: 70px;
+}
+.faq-span {
+  color: #0dcaf0;
+}

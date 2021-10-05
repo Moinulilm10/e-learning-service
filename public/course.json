@@ -33,7 +33,7 @@
     },
     {
         "cId": 5,
-        "cName": "C# course professional",
+        "cName": "C# course",
         "price": 22,
         "teacher": "Jalal Mia",
         "ctype": "professional",

@@ -1,8 +1,17 @@
 import React from 'react';
+import { useHistory } from 'react-router';
 
 import './Banner.css'
 
 const Banner = () => {
+
+    const history = useHistory()
+
+
+    const aboutUsButton = () => {
+        history.push('/about')
+    }
+
     return (
         <div className="banner-container ">
             <div className="">
@@ -17,7 +26,7 @@ const Banner = () => {
                             <br />
                             Grab the opportunity to learn something new from our team.
                         </p>
-                        <button className="mt-3 about-btn">About Us</button>
+                        <button onClick={aboutUsButton} className="mt-3 about-btn">About Us</button>
                     </div>
                     <div className="col-md-6"></div>
                 </div>

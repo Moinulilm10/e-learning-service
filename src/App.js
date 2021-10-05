@@ -8,6 +8,7 @@ import About from './Components/About/About';
 import Contact from './Components/ContactUs/Contact';
 import Navbar from './Components/Navbar/Navbar';
 import Footer from './Components/Footer/Footer';
+import Details from './Components/Details/Details';
 
 function App() {
   return (
@@ -23,6 +24,9 @@ function App() {
           </Route>
           <Route path="/courses">
             <Courses></Courses>
+          </Route>
+          <Route path="/details/:cId">
+            <Details></Details>
           </Route>
           <Route path="/about">
             <About></About>

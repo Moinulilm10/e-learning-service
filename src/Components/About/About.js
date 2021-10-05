@@ -12,19 +12,8 @@ const About = () => {
             <div className="aboutBottom">
                 <h1> ABOUT US</h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-                    mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-                    voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-                    fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-                    accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut
-                    molestias architecto voluptate aliquam nihil, eveniet aliquid culpa
-                    officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum
-                    nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque
-                    error repudiandae fuga? Ipsa laudantium molestias eos sapiente
-                    officiis modi at sunt excepturi expedita sint? Sed quibusdam
-                    recusandae alias error harum maxime adipisci amet laborum.
-                    Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a
-                    cumque velit
+                    Is traditional education destined to be a thing of the past? The answer is probably not, but why should students pay to attend a school where they must take classes that are not relevant to their goals? A common topic that is brought up when this is mentioned is the “for profit college”. After all, many of these institutions do offer customization and a faster path to graduation than other colleges.
+                    Unfortunately, when this is balanced out with issues such as exorbitant tuition rates, questionable accrediting, and lack of regulation, for profit schools become less and less appealing to students who want quality. This leaves eLearning as the most viable option for many students. So, which sites are the best, and what makes them work so well?
                 </p>
             </div>
         </div>
