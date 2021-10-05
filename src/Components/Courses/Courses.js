@@ -16,6 +16,8 @@ const Courses = () => {
             .then(data => setCourses(data))
     }, [])
 
+
+    //handle on change 
     const handleOnChange = (e) => {
         const searchText = e.target.value
         setsearchCourses(searchText)
